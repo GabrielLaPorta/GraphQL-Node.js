@@ -1,0 +1,26 @@
+{
+  "name": "GraphQL",
+  "version": "1.0.0",
+  "description": "[![License](https://img.shields.io/packagist/l/inhere/console.svg)](LICENSE)\r [![Language](https://img.shields.io/badge/language-shell-green.svg)](README.md)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabrielLaPorta/GraphQL-Node.js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabrielLaPorta/GraphQL-Node.js/issues"
+  },
+  "homepage": "https://github.com/GabrielLaPorta/GraphQL-Node.js#readme",
+  "dependencies": {
+    "graphql-yoga": "^1.18.3",
+    "pg": "^8.5.1",
+    "pg-hstore": "^2.3.3",
+    "sequelize": "^6.3.5"
+  }
+}
